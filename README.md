@@ -2,5 +2,4 @@
 Build-Array-from-Permutation
 
 ## Description
-Array
-Improved algorithm- Used recursion - Improved time and space
+Array - Improved algorithm - Used recursion - Improved time and space
